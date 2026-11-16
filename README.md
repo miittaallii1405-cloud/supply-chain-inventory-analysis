@@ -41,3 +41,5 @@ Lookup functions (VLOOKUP, INDEX-MATCH), logical formulas (IF, nested IF, MAX), 
 
 ## How to use
 Download `supply_chain_project.xlsx` and open it in Excel. Formulas recalculate automatically.
+
+
